@@ -1,0 +1,50 @@
+body{
+    background-color:#db564c;
+}
+h1{
+    
+    color: aliceblue;
+    text-align: center;
+    margin: auto;
+    
+}
+h5{
+ 
+    color: aliceblue;
+    text-align: center;
+    margin: auto;
+    height: 50px;
+    
+}
+.card-food{
+
+    width: 250px;
+    height: 250px;
+    margin: auto;
+    border: 2px solid #db564c;
+}
+.Menu{
+    margin: auto;
+    background-color: aliceblue;
+    width: 600px;
+    height: 30px;
+    
+}
+.kinhlup{
+    margin: auto;
+    width: 30px;
+    height: 30px;
+}
+.card-app{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+.container-1{
+    margin: auto;
+    background-color: #db564c ;
+   text-align: center;
+}
+.an{
+    display: none;
+}
